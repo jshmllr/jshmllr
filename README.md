@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Josh Miller
 > Design leader who simplifies complex problems into delightful digital experiences
 
-![Open to Opportunities](https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 ## ⁂ About Me
 I'm a product designer focused on creating user-centered experiences that drive business results. Based in beautiful Tennessee, I bring a strategic approach to design challenges across diverse industries.
